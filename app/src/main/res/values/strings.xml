@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FatFaaat</string>
+    <string name="page_title">Find</string>
+    <string name="search">검색</string>
+    <string name="favorite">좋아요</string>
+    <string name="more">더보기</string>
+    <string name="place_search">장소 검색</string>
+</resources>

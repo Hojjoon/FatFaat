@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btn_like"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        app:showAsAction="ifRoom"
+        android:title="like" />
+    <item
+        android:id="@+id/search_map"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="ifRoom"
+        android:title="find"/>
+    <item
+        android:id="@+id/btn_more"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        app:showAsAction="ifRoom"
+        android:title="more"/>
+</menu>
